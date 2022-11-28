@@ -1,0 +1,13 @@
+/* Write necessery css for navbar here  */
+
+#navbar > div {
+  display: flex;
+  justify-content: space-around;
+}
+#navbar > h2 {
+  text-align: center;
+}
+a {
+  color: rgb(255, 166, 0);
+  text-decoration: none;
+}
