@@ -1,2 +1,2 @@
 # taskmanager
-A task Manager App wher you  manage your tasks.
+A task Manager App where you  manage your tasks.
